@@ -1,5 +1,7 @@
 # Tic Tac Toe No Draw
 
+![image](https://github.com/user-attachments/assets/337545b3-64db-4ae1-bb33-d30f09675029)
+
 ## Project Description
 
 Tic Tac Toe No Draw is a unique implementation of the classic Tic Tac Toe game, developed using React and Vite. In this version, the game prevents the possibility of a draw, ensuring that there is always a winner. This project showcases a creative twist on a traditional game, making it more challenging and engaging for players.
